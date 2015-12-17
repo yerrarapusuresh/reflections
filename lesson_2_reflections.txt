@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It's going to initilize the repository and we have to intimate to git so that it can keep track of the file commits

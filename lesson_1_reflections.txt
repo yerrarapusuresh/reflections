@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Answer:  diff is showing diffrence between two files.  we can find bug very easily in new file by comparing with oldfile esp. where it is modified.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Answer: It's help us track old logic of the program by accessing previous versions.if something wrong with new version .we can easily revert back to oldversion.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+  manual is great advantage : you can make chage when any logica bug has modified
+  automatic is disadvantage : automatically saves version every time
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  to keep track of similar files
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log : it is shows all history of the commits with name,date and discription.
+    git diff : it is show difference bitween two commits
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
