@@ -6,3 +6,7 @@ It's going to initilize the repository and we have to intimate to git so that it
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 we cannot commit directley from working directory. once we added to staging area we can commit. its can keep track of which file is modified
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It is provides freedom to do our own expiremnts on master branch
