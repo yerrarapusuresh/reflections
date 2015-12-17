@@ -1,4 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It's going to initilize the repository and we have to intimate to git so that it can keep track of the file commits. 
-what is going on
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+we cannot commit directley from working directory. once we added to staging area we can commit. its can keep track of which file is modified
